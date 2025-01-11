@@ -1,0 +1,12 @@
+
+
+.news{
+    display: flex;
+    padding: 48px;
+
+}
+.images-dd{
+    width: 400px;
+    height: 300px;
+    border-radius: 8px;
+}
