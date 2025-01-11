@@ -1,0 +1,37 @@
+.lm{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+
+.table-1{
+  width: 125px;
+    padding: 24px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    gap: px;
+    
+}
+#xy{
+    background-color: aqua;
+}
+.brown{
+    color: #0E0E0E;
+}
+.form-1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.btn-1{
+   background-color: green;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
