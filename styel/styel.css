@@ -24,3 +24,29 @@
         height: 400px;
         
     }
+    .bandladesh-1{
+        display: flex;
+        gap: 24px;
+        margin: 0 30px 0 30px;
+    }
+    .paragraph-color{
+        color: #0E0E0E;
+    }
+    .bangladesh-description{
+        padding: 30px;
+    }
+    .btn-2{
+        background-color: blue;
+        color: white;
+        border-radius: 5px;
+    }
+    .btn-3{
+        color: white;
+        border-radius: 5px;
+        background-color: green;
+    }
+    .btn-4{
+        color: white;
+        border-radius: 5px;
+        background-color: #FFC239;
+    }
