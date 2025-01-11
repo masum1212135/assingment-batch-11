@@ -1,0 +1,26 @@
+.nav-links{
+    list-style: none;
+    ;
+    display:block;
+    margin-top: 20px;
+    
+    }
+    .btn-1{
+        background-color: #006A50;
+        color: white;
+     padding: 34px 17px;
+     border-radius: 8px;
+     font-weight: bold;
+    }
+    .hero-1{
+        display: flex;
+        justify-content: space-between;
+        margin: 30px 30px 0 30px ;
+        background-color: #C6E4D6;
+        padding: 80px;
+    }
+    .banner-profil{
+        width: 474.03px;
+        height: 400px;
+        
+    }
