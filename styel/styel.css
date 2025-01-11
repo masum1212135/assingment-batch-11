@@ -50,3 +50,25 @@
         border-radius: 5px;
         background-color: #FFC239;
     }
+    .text-deciration{
+        width: 1280px;
+        color: #0E0E0E;
+    }
+    .news{
+        display: flex;
+        gap: 32px;
+      margin: 48px;
+    }
+    .btn-5{
+        background-color: #006A50;
+        color: white;
+        border-radius: 5px;
+    }
+    .color-1{
+        color: #0E0E0E;
+    }
+    .border{
+        border-radius: 8px;
+        width: 400px;
+        height: 300px;
+    }
